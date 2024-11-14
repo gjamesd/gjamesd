@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋,  I'm James  
 
 <!--
 **gjamesd/gjamesd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is has a few of my personal projects that I work on in my free time, mostly focused on my hobbies. Snow forecasting for utah ski resorts, nutrition optimization for training, NCAA March Madneess predictor, rugby penalty probabilities, etc. 
+
+
+* I'm a  Data Scientist
+* I love to Latin Dance 
+* You can reach me at jamesgriffd@gmail.com
+  
+
+
