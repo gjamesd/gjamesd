@@ -18,7 +18,8 @@ This is has a few of my personal projects that I work on in my free time, mostly
 
 
 * I'm a  Data Scientist
-* I love to Latin Dance 
+* I love to Latin Dance
+* Big sports nerd!  
 * You can reach me at jamesgriffd@gmail.com
   
 
